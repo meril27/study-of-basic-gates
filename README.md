@@ -81,13 +81,18 @@ endmodule
 ``` 
 **Logic symbol & Truthtable**
 
+![Screenshot 2024-12-08 183148](https://github.com/user-attachments/assets/38b63dae-f772-440c-9d75-39603af4f04f)
+
+
 **RTL realization Output:** 
 
-![Screenshot 2024-12-08 173219](https://github.com/user-attachments/assets/af26d442-a7e8-4edc-9821-49100e73aaf2)
+![Screenshot 2024-12-08 173219](https://github.com/user-attachments/assets/2add2f0a-222b-45d9-8a45-2fdeff440aa0)
+
 
 **RTL**
 
-![Screenshot 2024-12-08 172213](https://github.com/user-attachments/assets/dc84b95f-ea93-4949-a378-dfa75a09f01a)
+![Screenshot 2024-12-08 172213](https://github.com/user-attachments/assets/c8d9f6b9-2662-4ef5-83cf-ca2c24d4746a)
+
 
 **Result:**
 
